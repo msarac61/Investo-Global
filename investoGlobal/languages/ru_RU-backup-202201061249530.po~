@@ -1,0 +1,586 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Investo Global\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-22 14:10+0000\n"
+"PO-Revision-Date: 2022-01-06 12:20+0000\n"
+"Last-Translator: \n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Domain: InvestoGlobal"
+
+#: single.php:247 single.php:281
+msgid "% Cash"
+msgstr ""
+
+#: single.php:247 single.php:281
+msgid "% DownPayment"
+msgstr "% ПРЕДОПЛАТА"
+
+#: template-property-last-update.php:530
+#: template-parts/template-property.php:401
+msgid "3 Ways to Obtain Turkish Citizenship"
+msgstr "3 способа получить турецкое гражданство"
+
+#: template-parts/template-about.php:154
+msgid "A Company"
+msgstr "Наши специалисты"
+
+#. Name of the template
+msgid "About Us"
+msgstr ""
+
+#: functions.php:420
+msgid "Add New Blog"
+msgstr ""
+
+#: functions.php:419
+msgid "Add New Item"
+msgstr ""
+
+#: header.php:81
+msgid "Adress"
+msgstr ""
+
+#: functions.php:418
+msgid "All Items"
+msgstr ""
+
+#. Name of the template
+msgid "All Project"
+msgstr ""
+
+#: template-parts/template-property.php:378
+msgid "All Projects"
+msgstr "Все проекты "
+
+#: taxonomy-district.php:68 single.php:680
+msgid "Annual Population Increase"
+msgstr "Годовой прирост населения"
+
+#. Name of the template
+#: functions.php:413 functions.php:414 functions.php:433 functions.php:434
+msgid "Blog"
+msgstr ""
+
+#: template-property-last-update.php:72
+msgid "Buy Property in Turkey"
+msgstr ""
+
+#: template-parts/template-blog.php:55
+msgid "Category : "
+msgstr ""
+
+#: single.php:261 single.php:294
+msgid "Citizenship"
+msgstr "гражданства"
+
+#: template-property-last-update.php:105 functions.php:273
+#: template-parts/template-property.php:92
+msgid "City"
+msgstr ""
+"Город\n"
+
+#: comments.php:38
+msgid "Comment Detail"
+msgstr ""
+
+#: comments.php:55
+msgid "Comment(s)"
+msgstr ""
+
+#: template-parts/template-about.php:179
+msgid "companies"
+msgstr "Компании"
+
+#: functions.php:357
+msgid "Concept"
+msgstr ""
+
+#. Name of the template
+#: header.php:87
+msgid "Contact"
+msgstr ""
+
+#: template-parts/template-about.php:108
+msgid "Core Values"
+msgstr "главные ценности"
+
+#: single.php:341
+msgid "Currency"
+msgstr "Валюта"
+
+#: template-parts/template-about.php:89 template-parts/template-about.php:93
+msgid "Customers"
+msgstr "клиентов"
+
+#: single.php:195 single.php:205
+msgid "Delivery Date"
+msgstr "Дата доставки"
+
+#: single.php:445 single.php:448
+msgid "Details"
+msgstr "Детали"
+
+#: template-property-last-update.php:236
+msgid "Discount"
+msgstr ""
+"Скидка\n"
+
+#: taxonomy-district.php:82
+msgid "Discover"
+msgstr ""
+
+#: functions.php:300
+msgid "District"
+msgstr ""
+
+#: template-property-last-update.php:562 template-property-last-update.php:565
+#: template-parts/template-property.php:432
+#: template-parts/template-property.php:435
+msgid "Districts ?"
+msgstr "районы ?"
+
+#: template-parts/template-about.php:62
+msgid "Download"
+msgstr ""
+
+#: footer.php:73
+msgid "E-Mail"
+msgstr ""
+
+#: comments.php:30
+msgid "E-Mail Address"
+msgstr ""
+
+#: functions.php:422
+msgid "Edit Blog Item"
+msgstr ""
+
+#: template-parts/template-about.php:81
+msgid "expriences"
+msgstr "опыта"
+
+#. Name of the template
+msgid "FAQ"
+msgstr ""
+
+#: single.php:444 single.php:447
+msgid "Feature"
+msgstr "функции"
+
+#: single.php:402 single.php:406
+msgid "Features"
+msgstr "Особенности"
+
+#: template-property-last-update.php:82
+#: template-parts/template-property.php:147
+msgid "Filter"
+msgstr "Фильтр"
+
+#: template-property-last-update.php:71
+msgid "Find the Best Areas to"
+msgstr ""
+
+#: functions.php:256
+msgid "Footer Menu - 1"
+msgstr ""
+
+#: functions.php:257
+msgid "Footer Menu - 2"
+msgstr ""
+
+#: template-parts/template-custom-services.php:19
+#: template-parts/template-faq.php:21 template-parts/template-hr.php:21
+#: template-parts/template-contact.php:17
+msgid "Global"
+msgstr ""
+
+#: template-parts/template-about.php:90 template-parts/template-about.php:92
+msgid "Happy"
+msgstr "довольных"
+
+#: functions.php:254
+msgid "Header Menu"
+msgstr ""
+
+#. Name of the template
+msgid "Homepage"
+msgstr ""
+
+#: single.php:403 single.php:405
+msgid "House"
+msgstr "дома"
+
+#. Name of the template
+msgid "HR"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://metinsarac.net/"
+msgstr ""
+
+#: template-parts/template-custom-services.php:18
+#: template-parts/template-faq.php:20 template-parts/template-hr.php:20
+#: template-parts/template-contact.php:16
+msgid "Investo"
+msgstr ""
+
+#. Name of the theme
+msgid "Investo Global"
+msgstr ""
+
+#: functions.php:415
+msgid "Item Archives"
+msgstr ""
+
+#: functions.php:416
+msgid "Item Attributes"
+msgstr ""
+
+#: template-parts/template-about.php:61
+msgid "Knowledge Expertise"
+msgstr ""
+
+#: template-parts/template-about.php:160
+msgid "Languages"
+msgstr "языках"
+
+#: template-parts/template-blog.php:117
+msgid "Latest News"
+msgstr ""
+
+#: comments.php:14
+msgid "Leave A Reply"
+msgstr ""
+
+#: template-parts/template-contact.php:50
+msgid "Let us call you"
+msgstr ""
+"Позвольте нам позвонить вам\n"
+
+#: template-property-last-update.php:515
+#: template-parts/template-property.php:387
+msgid "Looking to purchase a"
+msgstr "Хотите купить "
+
+#: single.php:542 single.php:545 single.php:563 single.php:566 single.php:584
+#: single.php:587
+msgid "Max : "
+msgstr ""
+
+#. Author of the theme
+msgid "Metin Saraç"
+msgstr ""
+
+#: single.php:541 single.php:544 single.php:562 single.php:565 single.php:583
+#: single.php:586
+msgid "Min : "
+msgstr ""
+
+#: template-parts/template-about.php:104
+msgid "Mission"
+msgstr "миссия"
+
+#: single.php:247 single.php:281
+msgid "Months"
+msgstr "МЕСЯЦЫ"
+
+#: comments.php:23
+msgid "Name & Surname"
+msgstr ""
+
+#: functions.php:421
+msgid "New Blog Item"
+msgstr ""
+
+#: template-parts/template-hr.php:51
+msgid "Open"
+msgstr ""
+
+#: functions.php:255
+msgid "Opened Menu"
+msgstr ""
+
+#: template-parts/template-about.php:178
+msgid "Our Group"
+msgstr "нашей группы"
+
+#: template-parts/template-services.php:50
+#, php-format
+msgid "Our Services in <div class=\"services-wdg-title-2\">%s Steps</div>"
+msgstr "Наши услуги в <div class=\"services-wdg-title-2\">%s шагов</div>"
+
+#: functions.php:417
+msgid "Parent Item:"
+msgstr ""
+
+#: single.php:248 single.php:282
+msgid "Payment Plan"
+msgstr "План оплаты "
+
+#: comments.php:26
+msgid "Phone Number"
+msgstr ""
+
+#: taxonomy-district.php:23 single.php:633
+msgid "Population Age"
+msgstr "Возраст населения"
+
+#: taxonomy-district.php:19 single.php:629
+msgid "Population Informations"
+msgstr " Информация о населении"
+
+#: taxonomy-district.php:50 single.php:661
+msgid "Population Of The "
+msgstr "Население"
+
+#: taxonomy-district.php:59 single.php:671
+msgid "Population Of The Education"
+msgstr "Население образования"
+
+#: template-parts/template-hr.php:52
+msgid "Position"
+msgstr ""
+
+#: functions.php:411
+msgctxt "Post Type General Name"
+msgid "Blog"
+msgstr ""
+
+#: functions.php:412
+msgctxt "Post Type Singular Name"
+msgid "Blog"
+msgstr ""
+
+#: template-property-last-update.php:155
+#: template-parts/template-property.php:142
+msgid "Price"
+msgstr ""
+"Цена\n"
+
+#: single.php:512
+msgid "Price Changes"
+msgstr "Изменения цен"
+
+#: single.php:511
+msgid "Price List and Housing"
+msgstr " Прайс лист и жилье"
+
+#: single.php:163
+msgid "Project Details"
+msgstr "Детали проект"
+
+#: footer.php:49 footer.php:50
+msgid "Properties"
+msgstr ""
+
+#. Name of the template
+msgid "Property"
+msgstr ""
+
+#. Name of the template
+msgid "Property --"
+msgstr ""
+
+#: template-property-last-update.php:516
+#: template-parts/template-property.php:388
+msgid "Property ?"
+msgstr "недвижимость?"
+
+#: archive.php:102 template-property-last-update.php:240
+#: template-property-last-update.php:459 taxonomy-district.php:175
+#: single.php:194 template-parts/template-all-project.php:108
+#: template-parts/template-property.php:320
+msgid "Ready To Move"
+msgstr "Готовое жилье"
+
+#: template-parts/template-blog.php:56
+msgid "Release Date : "
+msgstr ""
+
+#: single.php:553 single.php:574
+msgid "Rental Price"
+msgstr "Стоимость аренды"
+
+#: template-property-last-update.php:91
+msgid "Reset"
+msgstr ""
+
+#: single.php:597 single.php:606
+msgid "Return Time"
+msgstr "Время прибыли"
+
+#: template-property-last-update.php:122 functions.php:329
+#: template-parts/template-property.php:109
+msgid "Room"
+msgstr ""
+"Комната\n"
+
+#: single.php:532
+msgid "Sale Price "
+msgstr "Цена продажи"
+
+#: comments.php:41
+msgid "SEND"
+msgstr ""
+
+#. Name of the template
+#: footer.php:57 footer.php:58
+msgid "Services"
+msgstr ""
+
+#: single.php:426
+msgid "Show More"
+msgstr ""
+
+#. Name of the template
+msgid "Single Services"
+msgstr ""
+
+#: archive.php:129 taxonomy-district.php:202 single-blog.php:145
+#: template-parts/template-all-project.php:135
+#: template-parts/template-property.php:349
+msgid "Sold Out"
+msgstr ""
+
+#: template-property-last-update.php:93
+msgid "Sort By"
+msgstr ""
+
+#: template-parts/template-about.php:159
+msgid "Spoken"
+msgstr "говорят на"
+
+#: single.php:333
+msgid "Starting From"
+msgstr "Начиная с"
+
+#: template-parts/template-hr.php:37
+msgid "Submit <div class=\"hr-bottom-title mb-4\">Your CV</div>"
+msgstr "Отправьте <div class=\"hr-bottom-title mb-4\">свое резюме</div>"
+
+#: single.php:260 single.php:293
+msgid "Suitable"
+msgstr "Подходящий "
+
+#: functions.php:271
+msgctxt "Taxonomy General Name"
+msgid "City"
+msgstr ""
+"Город\n"
+
+#: functions.php:355
+msgctxt "Taxonomy General Name"
+msgid "Concept"
+msgstr ""
+
+#: functions.php:298
+msgctxt "Taxonomy General Name"
+msgid "District"
+msgstr ""
+
+#: functions.php:327
+msgctxt "Taxonomy General Name"
+msgid "Room"
+msgstr ""
+"Комната\n"
+
+#: functions.php:382
+msgctxt "Taxonomy General Name"
+msgid "Type"
+msgstr "Тип"
+
+#: functions.php:272
+msgctxt "Taxonomy Singular Name"
+msgid "City"
+msgstr ""
+"Город\n"
+
+#: functions.php:356
+msgctxt "Taxonomy Singular Name"
+msgid "Concept"
+msgstr ""
+
+#: functions.php:299
+msgctxt "Taxonomy Singular Name"
+msgid "District"
+msgstr ""
+
+#: functions.php:328
+msgctxt "Taxonomy Singular Name"
+msgid "Room"
+msgstr ""
+"Комната\n"
+
+#: functions.php:383
+msgctxt "Taxonomy Singular Name"
+msgid "Type"
+msgstr "Тип"
+
+#: template-property-last-update.php:139 functions.php:384 single.php:236
+#: single.php:270 template-parts/template-property.php:126
+msgid "Type"
+msgstr "Тип"
+
+#: functions.php:423
+msgid "Update Blog Item"
+msgstr ""
+
+#: template-parts/template-about.php:106
+msgid "Vision"
+msgstr "видение"
+
+#: section/home-channel.php:32
+msgid "Watch Our Channel"
+msgstr "Смотрите наш канал"
+
+#: template-parts/template-about.php:125
+msgid "Watch Our Video"
+msgstr "Смотрите наше видео"
+
+#: template-parts/template-contact.php:37
+msgid "We Are just a call away"
+msgstr ""
+"Мы просто на расстоянии одного звонка\n"
+
+#: footer.php:66
+msgid "Whatsapp"
+msgstr ""
+
+#: template-parts/template-contact.php:61
+msgid "Where we are ?"
+msgstr "Где мы ?"
+
+#: template-property-last-update.php:562 template-property-last-update.php:564
+#: template-parts/template-property.php:432
+#: template-parts/template-property.php:434
+msgid "Which"
+msgstr "Какие"
+
+#: single.php:373
+msgid "Why We Suggest This Project ?"
+msgstr "Почему мы предлагаем этот проект ?"
+
+#. Description of the theme
+msgid "Wordpress Custom Real Estate Theme"
+msgstr ""
+
+#: single.php:608 template-parts/template-about.php:80
+msgid "Years"
+msgstr "лет"
+
+#: taxonomy-district.php:31 single.php:641
+msgid "Years Old"
+msgstr "лет"
+
+#: comments.php:15
+msgid "Your email address will not be published. Required fields are marked*"
+msgstr ""

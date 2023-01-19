@@ -1,0 +1,99 @@
+﻿.step-number-title,
+.step-number-title span,
+.expert-title .expert-title-top,
+.testimonials-right-watch-button,
+.youtube-title .youtube-title-top,
+.social-title .social-title-top,
+.blog-title .blog-title-top,
+.portfolio-title .portfolio-title-top,
+.faq-title .faq-top-title,
+.hr-top-title,
+.blog-title-header-name,
+.blog-title-header-name h1,
+.blog-latest-title,
+.lightbox-form-subtitle,
+.which-district-sub-title,
+.customers_text1,
+.expriences_text1,
+.services-page-title h1,
+.footer-form-title,
+.hta2,
+.video-text-item,
+.page-sub-title .page-sub-title-top,
+.project-single-title .single-top-title,
+.pricing-table-title .pricing-table-title-1,
+.population-table-title .population-table-title-2,
+.house-feautures-title-1,
+.w-w-s-tp,
+.b-s-1-1 {
+    font-family: "Montserrat", sans-serif;
+}
+.customers_text1 {
+    font-size: 50px;
+}
+.opened-menu-menu ul li a {
+    font-size: 32px;
+}
+.blog-title-header-name {
+    font-size: 33px;
+}
+
+.customer-bottom,
+.customers_text2 {
+    margin-left: 0;
+}
+.video-arrow {
+    right: 20px;
+}
+.au-bottom-arrow {
+    display: none;
+}
+
+.au-lbt-1 {
+    font-size: 40px;
+    line-height: 60px;
+}
+.au-lbt-2,
+.au-lbt-3,
+.au-lbt-4,
+.au-lbt-5,
+.au-lbt-6 {
+    font-size: 25px;
+    line-height: 45px;
+}
+
+.b-s-1-1 {
+    font-size: 60px;
+}
+
+@media (min-width: 0px) and (max-width: 991px) {
+    .b-s-1,
+    .house-feautures-title,
+    .house-feautures-title-2 {
+        margin-left: 0px;
+    }
+    .ss-top-futured ul li {
+        font-size: 13px;
+    }
+    .ss-bottom-futured ul li {
+        width: 100%;
+    }
+
+    .expriences_number {
+        font-size: 75px;
+    }
+    .expriences_number::after {
+        bottom: 10px;
+    }
+    .expriences_r {
+        margin-top: 10px;
+    }
+    .expriences_text1 {
+        font-size: 30px;
+    }
+}
+
+
+.region .region-tab .tab-title{
+    font-family: "Montserrat", sans-serif!important;
+}

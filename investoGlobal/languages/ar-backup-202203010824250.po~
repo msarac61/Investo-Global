@@ -1,0 +1,633 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Investo Global\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-31 12:25+0000\n"
+"PO-Revision-Date: 2022-03-01 08:12+0000\n"
+"Last-Translator: \n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.8.1\n"
+"X-Domain: InvestoGlobal"
+
+#: single.php:250 single.php:313
+msgid "% Cash"
+msgstr "% نقدي"
+
+#: single.php:248 single.php:311
+msgid "% DownPayment"
+msgstr "% دفعة أولى"
+
+#: single.php:846 single.php:992
+msgid "1 year"
+msgstr "سنة واحدة"
+
+#: template-property-last-update.php:529
+#: template-parts/template-property.php:421
+msgid "3 Ways to Obtain Turkish Citizenship"
+msgstr ""
+"ثلاث طرق للحصول على الجنسية التركية\n"
+
+#: single.php:850 single.php:995
+msgid "3 year"
+msgstr ""
+"3 سنوات\n"
+
+#: single.php:854 single.php:998
+msgid "5 year"
+msgstr ""
+"5 سنوات\n"
+
+#: template-parts/template-about.php:154
+msgid "A Company"
+msgstr "شركة "
+
+#. Name of the template
+msgid "About Us"
+msgstr "حولنا"
+
+#: functions.php:424
+msgid "Add New Blog"
+msgstr ""
+
+#: functions.php:423
+msgid "Add New Item"
+msgstr ""
+
+#: header.php:81
+msgid "Adress"
+msgstr "عنوان"
+
+#: functions.php:422
+msgid "All Items"
+msgstr ""
+
+#. Name of the template
+msgid "All Project"
+msgstr ""
+
+#: template-parts/template-property.php:398
+msgid "All Projects"
+msgstr "كل المشاريع"
+
+#: taxonomy-district.php:73 single.php:802
+msgid "Annual Population Increase"
+msgstr "زيادة التعداد السكاني السنوي"
+
+#. Name of the template
+#: functions.php:417 functions.php:418 functions.php:437 functions.php:438
+msgid "Blog"
+msgstr "مقالات"
+
+#: template-property-last-update.php:72
+msgid "Buy Property in Turkey"
+msgstr " لشراء العقارات في تركيا"
+
+#: template-parts/template-blog.php:55
+msgid "Category : "
+msgstr "الفئة :"
+
+#: single.php:839
+msgid "changes in house rental prices"
+msgstr ""
+"التغييرات في أسعار تأجير الشقق\n"
+
+#: single.php:986
+msgid "changes in house sale prices"
+msgstr ""
+"التغييرات في أسعار بيع الشقق\n"
+
+#: single.php:275 single.php:343
+msgid "Citizenship"
+msgstr ""
+"للجنسية التركية\n"
+
+#: template-property-last-update.php:105 functions.php:277
+#: template-parts/template-property.php:98
+msgid "City"
+msgstr ""
+"المدينة\n"
+
+#: comments.php:38
+msgid "Comment Detail"
+msgstr "تفاصيل التعليق"
+
+#: comments.php:55
+msgid "Comment(s)"
+msgstr "التعليقات"
+
+#: template-parts/template-about.php:179
+msgid "companies"
+msgstr "شركاتنا "
+
+#: functions.php:361
+msgid "Concept"
+msgstr "مفهوم"
+
+#. Name of the template
+#: header.php:87
+msgid "Contact"
+msgstr "تواصل"
+
+#: template-parts/template-about.php:108
+msgid "Core Values"
+msgstr ""
+"قيمنا الجوهرية\n"
+
+#: single.php:401
+msgid "Currency"
+msgstr "العملة"
+
+#: template-parts/template-about.php:89 template-parts/template-about.php:93
+msgid "Customers"
+msgstr "عملاء "
+
+#: single.php:167 single.php:183
+msgid "Delivery Date"
+msgstr "تاريخ التسليم"
+
+#: single.php:514 single.php:517
+msgid "Details"
+msgstr "أكثر"
+
+#: template-property-last-update.php:235
+msgid "Discount"
+msgstr ""
+"حسم\n"
+
+#: taxonomy-district.php:87
+msgid "Discover"
+msgstr "يكتشف"
+
+#: functions.php:304
+msgid "District"
+msgstr ""
+
+#: template-property-last-update.php:561 template-property-last-update.php:564
+#: template-parts/template-property.php:452
+#: template-parts/template-property.php:455
+msgid "Districts ?"
+msgstr "منطقة؟"
+
+#: template-parts/template-about.php:62
+msgid "Download"
+msgstr "تحميل"
+
+#: footer.php:73
+msgid "E-Mail"
+msgstr "البريد الألكتروني"
+
+#: comments.php:30
+#| msgid "E-Mail Adress"
+msgid "E-Mail Address"
+msgstr "عنوان البريد الألكتروني"
+
+#: functions.php:426
+msgid "Edit Blog Item"
+msgstr ""
+
+#: template-parts/template-about.php:81
+msgid "expriences"
+msgstr "خبرة"
+
+#. Name of the template
+msgid "FAQ"
+msgstr ""
+
+#: single.php:513 single.php:516
+msgid "Feature"
+msgstr "تفاصيل "
+
+#: single.php:469 single.php:473
+msgid "Features"
+msgstr "ميّزات "
+
+#: template-property-last-update.php:82
+#: template-parts/template-property.php:159
+msgid "Filter"
+msgstr "فلترة"
+
+#: template-property-last-update.php:71
+msgid "Find the Best Areas to"
+msgstr "ابحث عن أفضل المناطق"
+
+#: functions.php:259
+msgid "Footer Menu - 1"
+msgstr ""
+
+#: functions.php:260
+msgid "Footer Menu - 2"
+msgstr ""
+
+#: single.php:842
+msgid "For Rent"
+msgstr ""
+"للإيجار\n"
+
+#: single.php:989
+msgid "For Sale"
+msgstr "للبيع"
+
+#: template-parts/template-custom-services.php:19
+#: template-parts/template-faq.php:21 template-parts/template-hr.php:21
+#: template-parts/template-contact.php:17
+msgid "Global"
+msgstr ""
+
+#: template-parts/template-about.php:90 template-parts/template-about.php:92
+msgid "Happy"
+msgstr "سعداء"
+
+#: functions.php:257
+msgid "Header Menu"
+msgstr ""
+
+#. Name of the template
+msgid "Homepage"
+msgstr ""
+
+#: single.php:470 single.php:472
+msgid "House"
+msgstr "المنزل"
+
+#. Name of the template
+msgid "HR"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://metinsarac.net/"
+msgstr ""
+
+#: template-parts/template-custom-services.php:18
+#: template-parts/template-faq.php:20 template-parts/template-hr.php:20
+#: template-parts/template-contact.php:16
+msgid "Investo"
+msgstr ""
+
+#. Name of the theme
+msgid "Investo Global"
+msgstr ""
+
+#: functions.php:419
+msgid "Item Archives"
+msgstr ""
+
+#: functions.php:420
+msgid "Item Attributes"
+msgstr ""
+
+#: template-parts/template-about.php:61
+msgid "Knowledge Expertise"
+msgstr ""
+
+#: template-parts/template-about.php:160
+msgid "Languages"
+msgstr "لغات"
+
+#: template-parts/template-blog.php:117
+msgid "Latest News"
+msgstr "آخر الأخبار"
+
+#: comments.php:14
+msgid "Leave A Reply"
+msgstr "اترك الرد"
+
+#: template-parts/template-contact.php:50
+msgid "Let us call you"
+msgstr "دعنا نتصل بك"
+
+#: template-property-last-update.php:514
+#: template-parts/template-property.php:407
+msgid "Looking to purchase a"
+msgstr "هل تتطلع لشراء"
+
+#: single.php:626 single.php:629 single.php:648 single.php:652 single.php:672
+#: single.php:676
+msgid "Max : "
+msgstr ""
+
+#. Author of the theme
+msgid "Metin Saraç"
+msgstr ""
+
+#: single.php:625 single.php:628 single.php:647 single.php:651 single.php:671
+#: single.php:675
+msgid "Min : "
+msgstr ""
+
+#: template-parts/template-about.php:104
+msgid "Mission"
+msgstr "وظيفتنا"
+
+#: single.php:254 single.php:317
+msgid "Months"
+msgstr "أشهر"
+
+#: comments.php:23
+msgid "Name & Surname"
+msgstr "الاسم & اللقب"
+
+#: functions.php:425
+msgid "New Blog Item"
+msgstr ""
+
+#: template-parts/template-hr.php:51
+msgid "Open"
+msgstr "متاح"
+
+#: functions.php:258
+msgid "Opened Menu"
+msgstr ""
+
+#: template-parts/template-about.php:178
+msgid "Our Group"
+msgstr ""
+"مجموعة \n"
+
+#: template-parts/template-services.php:50
+#, php-format
+msgid "Our Services in <div class=\"services-wdg-title-2\">%s Steps</div>"
+msgstr "خدماتنا في <div class=\"services-wdg-title-2\">7 خطوات</div>"
+
+#: functions.php:421
+msgid "Parent Item:"
+msgstr ""
+
+#: single.php:258 single.php:322
+msgid "Payment Plan"
+msgstr "خطة الدفع"
+
+#: comments.php:26
+msgid "Phone Number"
+msgstr "رقم الهاتف"
+
+#: taxonomy-district.php:28 single.php:724
+msgid "Population Age"
+msgstr "عمر السكان"
+
+#: taxonomy-district.php:24 single.php:720
+msgid "Population Informations"
+msgstr "معلومات السكان"
+
+#: taxonomy-district.php:55 single.php:764
+msgid "Population Of The "
+msgstr "التعداد السكاني"
+
+#: taxonomy-district.php:64 single.php:779
+msgid "Population Of The Education"
+msgstr "مستوى التعليم"
+
+#: template-parts/template-hr.php:52
+msgid "Position"
+msgstr "مركز وظيفي"
+
+#: functions.php:415
+msgctxt "Post Type General Name"
+msgid "Blog"
+msgstr "مقالات"
+
+#: functions.php:416
+msgctxt "Post Type Singular Name"
+msgid "Blog"
+msgstr "مقالات"
+
+#: template-property-last-update.php:155
+#: template-parts/template-property.php:154
+msgid "Price"
+msgstr ""
+"السعر\n"
+
+#: single.php:588 single.php:830
+msgid "Price Changes"
+msgstr "تغييرات الأسعار"
+
+#: single.php:587
+msgid "Price List and Housing"
+msgstr "قائمة الأسعار والإيجار"
+
+#: single.php:122
+msgid "Project Details"
+msgstr "تفاصيل المشروع"
+
+#: footer.php:49 footer.php:50
+msgid "Properties"
+msgstr ""
+"عقارات\n"
+
+#. Name of the template
+msgid "Property"
+msgstr ""
+
+#. Name of the template
+msgid "Property --"
+msgstr ""
+
+#: template-property-last-update.php:515
+#: template-parts/template-property.php:408
+msgid "Property ?"
+msgstr "عقار؟"
+
+#: archive.php:113 template-property-last-update.php:239
+#: template-property-last-update.php:458 taxonomy-district.php:179
+#: single.php:166 template-parts/template-all-project.php:115
+#: template-parts/template-property.php:335
+msgid "Ready To Move"
+msgstr ""
+"جاهز للسكن\n"
+
+#: functions.php:562
+msgid "Real Name"
+msgstr ""
+
+#: single.php:829
+msgid "region"
+msgstr "منطقة"
+
+#: template-parts/template-blog.php:56
+msgid "Release Date : "
+msgstr "تاريخ النشر :"
+
+#: single.php:638 single.php:660
+msgid "Rental Price"
+msgstr "سعر الإيجار"
+
+#: template-property-last-update.php:91
+msgid "Reset"
+msgstr "إعادة تعيين"
+
+#: single.php:686 single.php:695
+msgid "Return Time"
+msgstr "مدة إستعادة قيمة الاستثمار"
+
+#: template-property-last-update.php:122 functions.php:333
+#: template-parts/template-property.php:117
+msgid "Room"
+msgstr ""
+"عدد الغرف\n"
+
+#: single.php:616
+msgid "Sale Price "
+msgstr "سعر البيع"
+
+#: comments.php:41
+msgid "SEND"
+msgstr ""
+"ارسال\n"
+
+#. Name of the template
+#: footer.php:57 footer.php:58
+msgid "Services"
+msgstr "الخدمات"
+
+#: single.php:495
+msgid "Show More"
+msgstr "أعرض المزيد"
+
+#. Name of the template
+msgid "Single Services"
+msgstr ""
+
+#: archive.php:143 taxonomy-district.php:206 single-blog.php:145
+#: template-parts/template-all-project.php:145
+#: template-parts/template-property.php:368
+msgid "Sold Out"
+msgstr "غير متوفر"
+
+#: template-property-last-update.php:93
+msgid "Sort By"
+msgstr ""
+"ابحث حسب\n"
+
+#: template-parts/template-about.php:159
+msgid "Spoken"
+msgstr "تتحدث "
+
+#: single.php:393
+msgid "Starting From"
+msgstr "يبدأ من"
+
+#: template-parts/template-hr.php:37
+#| msgid "Submit <div class=\"hr-bottom-title mt-4\">Your CV</div>"
+msgid "Submit <div class=\"hr-bottom-title mb-4\">Your CV</div>"
+msgstr "قدّم <div class=\"hr-bottom-title mt-4\">سيرتك الذاتية</div>"
+
+#: single.php:274 single.php:342
+msgid "Suitable"
+msgstr "مناسب"
+
+#: functions.php:275
+msgctxt "Taxonomy General Name"
+msgid "City"
+msgstr ""
+
+#: functions.php:359
+msgctxt "Taxonomy General Name"
+msgid "Concept"
+msgstr ""
+
+#: functions.php:302
+msgctxt "Taxonomy General Name"
+msgid "District"
+msgstr ""
+
+#: functions.php:331
+msgctxt "Taxonomy General Name"
+msgid "Room"
+msgstr ""
+
+#: functions.php:386
+msgctxt "Taxonomy General Name"
+msgid "Type"
+msgstr ""
+
+#: functions.php:276
+msgctxt "Taxonomy Singular Name"
+msgid "City"
+msgstr ""
+
+#: functions.php:360
+msgctxt "Taxonomy Singular Name"
+msgid "Concept"
+msgstr ""
+
+#: functions.php:303
+msgctxt "Taxonomy Singular Name"
+msgid "District"
+msgstr ""
+
+#: functions.php:332
+msgctxt "Taxonomy Singular Name"
+msgid "Room"
+msgstr ""
+
+#: functions.php:387
+msgctxt "Taxonomy Singular Name"
+msgid "Type"
+msgstr ""
+
+#: template-property-last-update.php:139 functions.php:388 single.php:227
+#: single.php:283 template-parts/template-property.php:136
+msgid "Type"
+msgstr "نوع"
+
+#: functions.php:427
+msgid "Update Blog Item"
+msgstr ""
+
+#: template-parts/template-about.php:106
+msgid "Vision"
+msgstr ""
+"الرؤية \n"
+
+#: section/home-channel.php:32
+msgid "Watch Our Channel"
+msgstr ""
+"شاهد قناتنا\n"
+
+#: template-parts/template-about.php:125
+msgid "Watch Our Video"
+msgstr "شاهد فيديوهاتنا"
+
+#: template-parts/template-contact.php:37
+msgid "We Are just a call away"
+msgstr "نحنا على بعد مكالمة فقط"
+
+#: footer.php:66
+msgid "Whatsapp"
+msgstr ""
+
+#: template-parts/template-contact.php:61
+msgid "Where we are ?"
+msgstr "اين نحن؟"
+
+#: template-property-last-update.php:561 template-property-last-update.php:563
+#: template-parts/template-property.php:452
+#: template-parts/template-property.php:454
+msgid "Which"
+msgstr "في اي"
+
+#: single.php:436
+msgid "Why We Suggest This Project ?"
+msgstr "لماذا نقترح هذا المشىروع ؟"
+
+#. Description of the theme
+msgid "Wordpress Custom Real Estate Theme"
+msgstr ""
+
+#: single.php:697 template-parts/template-about.php:80
+msgid "Years"
+msgstr "سنة"
+
+#: taxonomy-district.php:36 single.php:732
+msgid "Years Old"
+msgstr "سنة"
+
+#: comments.php:15
+msgid "Your email address will not be published. Required fields are marked*"
+msgstr "لن يتم نشر عنوان بريدك الإلكتروني. تم وضع علامة * على الحقول المطلوبة "

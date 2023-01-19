@@ -1,0 +1,774 @@
+@import url("font.css");
+
+body,
+html,
+* {
+  font-family: "iranyekan", sans-serif !important;
+}
+
+i {
+  font-family: "Montserrat", sans-serif;
+}
+
+.step-standart-title,
+.step-number-title,
+.expert-title .expert-title-top,
+.testimonials-right-watch-button,
+.youtube-title .youtube-title-top,
+.social-title .social-title-top,
+.blog-title .blog-title-top,
+.portfolio-title .portfolio-title-top,
+.faq-title .faq-top-title,
+.hr-top-title,
+.blog-title-header-name,
+.blog-latest-title,
+.lightbox-form-subtitle,
+.footer-form-title,
+.property-bottom-title .property-bottom-title-2,
+.which-district-sub-title,
+.page-sub-title .page-sub-title-top,
+.project-single-title .single-top-title,
+.ss-1-t-1,
+.ss-1-t-3-4,
+.b-s-1-1,
+.house-feautures-title-1,
+.pricing-table-title .pricing-table-title-1,
+.population-table-title .population-table-title-2,
+.services-page-title,
+.hta2,
+.au-top-title,
+.expriences_text1,
+.customers_text1,
+.video-text-item,
+.slide-text .slide-text21,
+.services-page-title h1,
+.services-page-title,
+.blog-title-header-name h1,
+.blog-title-header-name,
+.w-w-s-tp {
+  font-family: "iranyekan", sans-serif !important;
+}
+
+.header-top-menu ul li a {
+  font-weight: 800;
+}
+
+.hr-top-title {
+  font-size: 65px;
+  line-height: 80px;
+}
+
+.expert-user-name {
+  font-family: "Montserrat", sans-serif !important;
+}
+
+.testimonials-right-name-surname {
+  float: left;
+  font-family: "the artisan", sans-serif !important;
+}
+
+.testimonials-right-flag {
+  float: right;
+  margin-top: 40px;
+  font-family: "Montserrat", sans-serif !important;
+}
+.testimonials-box-play {
+  left: -40px;
+  right: auto;
+}
+
+.testimonials-next-prev-button {
+  left: 250px;
+  right: auto;
+}
+
+.au-top-title {
+  font-size: 80px;
+}
+
+.slider-right {
+  position: absolute;
+  left: 0;
+  right: auto;
+  top: 0;
+  margin-left: -280px;
+}
+
+.youtube-slider2 {
+  position: absolute !important;
+  left: 0;
+  right: auto;
+  top: 0;
+  height: 470px;
+  width: 480px !important;
+  margin-left: -185px;
+  margin-right: auto;
+}
+
+.section-blog .border1 {
+  border-left: 1px solid #f0f0f0;
+  border-top: 1px solid #f0f0f0;
+
+  border-bottom: none;
+  border-right: none;
+}
+.section-blog .border2 {
+  border-top: 1px solid #f0f0f0;
+  border-bottom: none;
+}
+
+.section-blog .border3 {
+  border-left: 1px solid #f0f0f0;
+  border-top: 1px solid #f0f0f0;
+  border-bottom: none;
+  border-right: none;
+}
+
+.section-blog .border4 {
+  border-top: 1px solid #f0f0f0;
+  border-bottom: none;
+}
+
+.section-blog .border5 {
+  border-left: 1px solid #f0f0f0;
+  border-top: 1px solid #f0f0f0;
+  border-bottom: none;
+  border-right: none;
+}
+
+.section-blog .border6 {
+  border-top: 1px solid #f0f0f0;
+  border-bottom: none;
+}
+
+.expert-title-middle:after {
+  right: -300px;
+  top: -65px;
+}
+
+.testimonials-right-flag img {
+  margin-left: 5px;
+}
+
+.portfolio-box-numeric {
+  margin-left: 60px;
+  position: absolute;
+  top: 1px;
+  animation: fadeIn;
+  animation-duration: 0.3s;
+  left: 0;
+  text-align: right;
+}
+
+.step-standart-title {
+  width: 200px;
+  text-align: right;
+}
+
+@media screen and (min-width: 0) and (max-width: 991px) {
+  .step-standart-title {
+    width: 100%;
+  }
+  .opened-menu-adres,
+  .opened-menu-contact {
+    margin-right: 25px;
+    margin-left: 0px;
+  }
+  .opened-menu-menu ul li,
+  .opened-menu-adres,
+  .opened-menu-contact {
+    text-align: right;
+    margin-right: 15px;
+  }
+
+  .single-slider .owl-nav {
+    right: auto !important;
+    position: absolute !important;
+    left: 50% !important;
+    transform: translate(-50%, 0) !important;
+  }
+  .services-page-title {
+    font-size: 60px !important;
+    margin-top: 20px !important;
+    margin-right: 15px !important;
+  }
+  .blog-latest-title {
+    margin-top: -50px;
+  }
+  .b-s-1 {
+    text-align: right;
+  }
+
+  .future-list ul li {
+    direction: ltr;
+  }
+
+  .price-tablo-in {
+    border-left: none !important;
+    padding-left: 0px !important;
+  }
+  .population-age-title {
+    text-align: center;
+  }
+
+  .testimonials {
+    height: 800px !important;
+  }
+}
+
+.youtube-title {
+  text-align: right;
+}
+
+.youtube-slider-arrow {
+  left: 35px;
+  right: auto;
+}
+
+.portfolio-box-numeric {
+  margin-left: 40px;
+  width: 120px;
+}
+
+.footer-form-input input[type="text"],
+.footer-form-textarea textarea,
+.footer-form-input input[type="email"],
+.footer-form-input input[type="tel"] {
+  width: 100%;
+  font-weight: 600;
+  font-size: 14px;
+  letter-spacing: 1px;
+  border: 1px solid #d0d0d0;
+  outline: none;
+  padding: 17px;
+  color: #6a6a6a;
+  text-align: right;
+}
+
+.page-form input[type="text"],
+.page-form textarea,
+.page-form input[type="email"],
+.page-form input[type="tel"],
+.page-form input[type="number"] {
+  text-align: right;
+}
+
+.lightbox-form input[type="text"],
+.lightbox-form input[type="tel"],
+.lightbox-form input[type="email"] {
+  text-align: right;
+}
+
+.footer-form-input input[type="text"],
+.footer-form-textarea textarea,
+.footer-form-input input[type="email"],
+.footer-form-input input[type="tel"] {
+  text-align: right;
+}
+
+.services-page-title {
+  font-size: 120px;
+  color: #ba9f58;
+  font-family: "the artisan";
+  text-align: right;
+}
+
+.header-title-about span {
+  right: 0px;
+  left: auto;
+}
+
+.header-title-about span > div {
+  font-family: "Montserrat", sans-serif !important;
+}
+.right-services {
+  left: -320px;
+  right: auto;
+  text-align: right;
+}
+
+.right-services-number::after {
+  right: -50px;
+  left: auto;
+}
+
+.left-services {
+  right: -320px;
+  left: auto;
+  text-align: left;
+}
+
+.left-services-number::after {
+  left: -50px;
+  right: auto;
+}
+
+.page-content {
+  text-align: right;
+}
+
+.page-content ul {
+  margin-right: 20px;
+  margin-left: 0px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.page-address-bar ul li::before {
+  right: 0;
+  left: auto;
+  top: 5px;
+}
+
+.page-address-bar ul li {
+  padding-right: 20px;
+  padding-left: 0px;
+  direction: ltr;
+}
+
+.close-opened-menu {
+  left: 20px;
+  right: auto;
+}
+
+.header-title-about2:after {
+  left: auto;
+  right: 0px;
+}
+
+.about-us-numeric-word::after {
+  right: 5px;
+  left: 0;
+}
+
+.au-lbt-1 {
+  font-size: 70px;
+  line-height: 70px;
+}
+
+.rtl-support,
+flag-group,
+.page-sub-title,
+.about-us-sep-description,
+.page-address-bar,
+.testimonials-right,
+.blog-home,
+.flag-group,
+.recent-news-sidebar-title,
+.recent-news-sidebar-description,
+.ss-1-t-2,
+.lightbox-form-title,
+.lightbox-form-subtitle,
+.filter-item,
+.filter-item select,
+.small-post-title,
+.big-post-title,
+.blog-category-title,
+.blog-category-date,
+.category-box-title,
+.blog-latest-title,
+.small-post-title-small-title {
+  text-align: right;
+}
+
+.au-left-bottom-title {
+  right: 0;
+  left: auto;
+  bottom: -35px;
+}
+
+.expriences_number,
+.expriences_r {
+  float: right;
+}
+
+.expriences_r {
+  margin-right: 20px;
+}
+
+.video-arrow {
+  right: auto;
+  left: 5px;
+}
+
+.video-arrow img {
+  transform: rotate(180deg);
+}
+
+.au-bottom-arrow {
+  left: -30px;
+  right: auto;
+}
+
+.au-bottom-arrow img {
+  transform: rotate(70deg);
+}
+
+.hr-title {
+  text-align: center;
+}
+
+.hr-bottom-title {
+  margin-left: 0px;
+  text-align: right;
+}
+
+.opened-menu-menu ul li,
+.opened-menu-adres,
+.opened-menu-contact {
+  text-align: right;
+}
+
+.opened-menu-menu ul li a {
+  padding: 0px 0px 0px 25px;
+}
+
+.faq-title .faq-cont {
+  left: auto;
+  right: 0;
+  text-align: right;
+}
+
+.expriences_text3 {
+  font-size: 70px;
+  margin-top: 15px;
+  text-align: right;
+}
+
+.hr-cv-form input[type="text"],
+.hr-cv-form input[type="email"] {
+  text-align: right;
+}
+
+.single-blog-post {
+  text-align: right;
+}
+
+.single-blog-post ul {
+  margin-left: 0px;
+  margin-right: 20px;
+}
+
+.single-slider .owl-nav {
+  left: -50px;
+  right: auto;
+}
+
+.project-step2 {
+  text-align: right;
+}
+
+.ss-top-futured ul li {
+  padding-left: 0;
+  padding-right: 100px;
+  text-align: right;
+}
+
+.ss-top-futured ul li::after {
+  right: 0;
+  left: auto;
+}
+
+.house-feautures-title {
+  text-align: right;
+}
+.house-feautures-title::after {
+  left: auto;
+  right: 20px;
+  width: 525px;
+  margin-right: 300px;
+  margin-left: 0px;
+}
+
+.ss-bottom-futured ul li {
+  float: right;
+  text-align: right;
+}
+
+.ss-bottom-futured ul li::after {
+  left: auto;
+  right: 0;
+  margin-left: 0px;
+  margin-right: 51px;
+}
+
+element.style {
+}
+.price-tablo-in {
+  border-right: none;
+  border-left: 1px solid #e6e6e6;
+  padding-left: 30px;
+
+  padding-right: 0px;
+}
+
+.carousel-number-l {
+  float: right;
+  margin-left: 10px;
+  margin-right: 0px;
+}
+.carousel-number-r {
+  float: right;
+}
+
+.carousel-description {
+  text-align: right;
+}
+.pricing-table-title {
+  text-align: right;
+}
+
+.pricing-table-title::after {
+  right: 30px;
+  left: auto;
+  width: 750px;
+  margin-right: 600px;
+  margin-left: 0px;
+}
+.single-plus-detail {
+  display: none;
+}
+
+.ss-1-t-1,
+.ss-2-t-1 {
+  float: right;
+}
+
+.b-s-1 {
+  margin-top: 40px;
+}
+
+.close-property-lightbox {
+  left: 25px;
+  right: auto;
+}
+
+.filter-left-1,
+.filter-left-2 {
+  right: 15px;
+  left: auto;
+}
+
+.select2-container--default
+  .select2-selection--single
+  .select2-selection__rendered {
+  text-align: right;
+}
+.about-us-numeric-word {
+  font-family: "Montserrat", sans-serif !important;
+}
+.language-bar ul li .active-flag-name {
+  font-family: "Montserrat", sans-serif !important;
+}
+.language-bar ul li.active .active-flag-name {
+  text-align: center;
+}
+
+.big-post-category {
+  float: right;
+  border-right: none;
+  border-left: 1px solid #ddd;
+  padding-left: 10px;
+  padding-right: 0px;
+  margin-left: 10px;
+}
+
+.big-post-date {
+  float: right;
+}
+
+.owl-social .owl-prev {
+  float: left;
+}
+.owl-social .owl-next {
+  float: right;
+}
+
+.owl-social .owl-nav {
+  margin: 0 auto;
+  display: table;
+  margin-top: 20px;
+}
+
+.single-slider .owl-prev {
+  float: left;
+}
+.single-slider .owl-next {
+  float: right;
+}
+
+.single-slider .owl-nav {
+  margin: 0 auto;
+  display: table;
+  margin-top: 20px;
+}
+
+.city-dot-iof,
+.city-iof {
+  text-align: right;
+}
+
+.vertical-price {
+  text-align: center;
+}
+
+.vertical-lokation {
+  text-align: right;
+}
+
+.cf-box-button {
+  -webkit-border-top-right-radius: 0px;
+  -moz-border-radius-topright: 0px;
+  border-top-right-radius: 0px;
+  -webkit-border-top-left-radius: 15px;
+  -moz-border-radius-topleft: 15px;
+  border-top-left-radius: 15px;
+}
+
+.price-tablo-in .pt-price-min,
+.price-tablo-in .pt-price-max {
+  float: right;
+  margin-right: 0px;
+  margin-left: 30px;
+}
+
+.price-tablo-in .pt-price-min span,
+.price-tablo-in .pt-price-max span {
+  direction: ltr;
+}
+
+.ss-next-prev-button {
+  float: right;
+}
+
+.ss-1-t-1 {
+  line-height: 1px;
+}
+
+.collapseItem p {
+  font-size: 17px;
+  text-align: right;
+  margin-right: 10px;
+}
+
+.collapseItem a {
+  text-align: right;
+  margin-right: 10px;
+}
+.collapseButton::before {
+  right: 30px;
+  left: auto;
+}
+
+.owl-carousel {
+  direction: ltr;
+}
+.owl-carousel .owl-item {
+  direction: rtl;
+}
+
+.about-us-sep-description ul {
+  margin-left: 0px;
+  margin-right: 20px;
+}
+
+.hr-cv-form input[type="checkbox"]:before {
+  margin-left: 10px;
+  margin-right: 0px;
+}
+
+.last-post-text,
+.first-post-text {
+  text-align: right;
+}
+
+.project-iof-price .city-dot-iof,
+.project-iof-price .city-iof,
+.Xprice > div,
+.district-list ul li,
+.district-list ul li > div,
+.district-list ul li > div > a,
+.sare-pagination ul li a,
+.proje-detail-vertical > div,
+.proje-detail-vertical > div > div,
+.loader-text > div,
+.loader-text,
+.single-bottom-title,
+.language-bar ul li,
+.language-bar ul li.active .active-flag-name,
+.language-bar ul li .active-flag-name {
+  font-family: "Montserrat", sans-serif !important;
+}
+.intl-tel-input.allow-dropdown input,
+.intl-tel-input.allow-dropdown input[type="tel"],
+.intl-tel-input.allow-dropdown input[type="text"],
+.intl-tel-input.separate-dial-code input,
+.intl-tel-input.separate-dial-code input[type="tel"],
+.intl-tel-input.separate-dial-code input[type="text"] {
+  font-family: "Montserrat", sans-serif !important;
+}
+
+.step-number-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.step-number-title span {
+  color: #ba9f58;
+}
+
+.irs--flat.irs-with-grid {
+  height: 60px;
+  direction: ltr;
+}
+
+.intl-tel-input .flag-container {
+  right: auto;
+  left: 0px;
+}
+
+.step-description-in .step-description-desc {
+  text-align: right;
+}
+
+.region .region-tab .tab-title {
+  font-family: "iranyekan", sans-serif !important;
+}
+
+/* Get Offer */
+.offer-form .input-wrapper .wpcf7-list-item {
+  float: right;
+  text-align: right;
+}
+
+.offer-form input[type="text"],
+.offer-form textarea,
+.offer-form input[type="email"],
+.offer-form input[type="tel"] {
+  text-align: right;
+}
+
+.accordion {
+  text-align: right;
+}
+
+.accordion .faqReply {
+  text-align: right;
+}
+
+.region .top-area .text .distinct {
+  text-align: right;
+}
+.region .top-area .text .city {
+  text-align: right;
+}
+
+.region .top-area .text .info {
+  text-align: right;
+}
+
+
+.offer-content h4, h3{
+  text-align: right;
+}
